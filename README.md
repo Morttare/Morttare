@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Information Technology Student at Tampere University
 ----------------------------------------------------
 
-I have been interested in coding since high school and I know Python, C++ and Java quite well. I am interested in games and game development, but I also know a bit of photo and video editing.
+I have been interested in coding since high school and I know Python, C++ and Java quite well. I am interested in games and game development, but I also know a bit of photo and video editing. Be sure to check out my projects!
 
 * 🌍  I'm based in Tampere
 * ✉️  You can contact me at [max.jauhiainen@gmail.com](mailto:max.jauhiainen@gmail.com)
